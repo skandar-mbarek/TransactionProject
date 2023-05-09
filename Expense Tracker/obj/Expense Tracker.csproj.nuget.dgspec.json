@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YouTube\\Videos\\Asp.Net Core\\Expense Tracker\\Project\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj": {}
+    "C:\\Users\\skand\\source\\repos\\TransactionProject\\Expense Tracker\\Expense Tracker.csproj": {}
   },
   "projects": {
-    "D:\\YouTube\\Videos\\Asp.Net Core\\Expense Tracker\\Project\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj": {
+    "C:\\Users\\skand\\source\\repos\\TransactionProject\\Expense Tracker\\Expense Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YouTube\\Videos\\Asp.Net Core\\Expense Tracker\\Project\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
+        "projectUniqueName": "C:\\Users\\skand\\source\\repos\\TransactionProject\\Expense Tracker\\Expense Tracker.csproj",
         "projectName": "Expense Tracker",
-        "projectPath": "D:\\YouTube\\Videos\\Asp.Net Core\\Expense Tracker\\Project\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
-        "packagesPath": "C:\\Users\\CodAffection\\.nuget\\packages\\",
-        "outputPath": "D:\\YouTube\\Videos\\Asp.Net Core\\Expense Tracker\\Project\\Expense Tracker\\Expense Tracker\\obj\\",
+        "projectPath": "C:\\Users\\skand\\source\\repos\\TransactionProject\\Expense Tracker\\Expense Tracker.csproj",
+        "packagesPath": "C:\\Users\\skand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\skand\\source\\repos\\TransactionProject\\Expense Tracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CodAffection\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\skand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[6.0.5, )"
             },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.3.0, )"
@@ -73,7 +77,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -85,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
